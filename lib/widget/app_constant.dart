@@ -1,3 +1,3 @@
 String publishableKey =
-    "pk_test_51OUCFkB2SjT9ZU8jucmA9tCDFwDDcZuG1h6nHPWIOvQXeJKaGgoPGL9N6VfE3d8TZpEwyTPrFUmE6mObCotqDtGw00URmVKXq5";
-String secretKey = "sk_test_51OUCFkB2SjT9ZU8jTuG4i7AO4jQfgTh9AJSlmNUfe1kMbvxZG0mftyrQ3qGYOhJPCgYYYQ4uSNTFYheDxgWH3Urt00JiXFIxeZ";
+    "Your Key Will Appear Here";
+String secretKey = "Your secretKey Will Appear Here";
